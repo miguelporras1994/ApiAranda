@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\bin\Debug\net7.0\DataAcccesLayer.deps.json
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\bin\Debug\net7.0\DataAcccesLayer.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\bin\Debug\net7.0\DataAcccesLayer.dll
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\bin\Debug\net7.0\DataAcccesLayer.pdb
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.dll
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\refint\DataAcccesLayer.dll
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.pdb
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\DataAcccesLayer.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ApiAranda\DataAcccesLayer\obj\Debug\net7.0\ref\DataAcccesLayer.dll
